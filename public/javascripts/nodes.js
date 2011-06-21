@@ -73,11 +73,11 @@ var node_list = [
   },
   {
     "id": 10,
-    "url": "http://hollow-mountain-667.heroku.com",
-    "author": "Edna Piranha",
-    "personal_url": "http://ednapiranha.com",
-    "time": 2800,
-    "tags": "audio"
+    "url": "http://php-neuron.phpfogapp.com",
+    "author": "Chris Mendis",
+    "personal_url": "http://flavors.me/chrismendis",
+    "time": 1000,
+    "tags": "image"
   },
   {
     "id": 11,
@@ -156,14 +156,6 @@ var node_list = [
     "url": "http://smooth-mist-685.heroku.com",
     "author": "Thomas Cheng",
     "personal_url": "http://blog.thomascheng.com",
-    "time": 1000,
-    "tags": "image"
-  },
-  {
-    "id": 21,
-    "url": "http://php-neuron.phpfogapp.com",
-    "author": "Chris Mendis",
-    "personal_url": "http://flavors.me/chrismendis",
     "time": 1000,
     "tags": "image"
   }
